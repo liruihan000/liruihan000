@@ -1,8 +1,8 @@
 # Hi, I'm Ruihan 👋
 
-I build agent infrastructure — tools that change how a coding agent works, and show you what it is actually doing. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
+I'm an AI engineer at Tigerless. I build agent infrastructure — tools that change how a coding agent works, and show you what it is actually doing. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
 
-Based in New York. Creator of [**Lara**](https://lara.tigerless.com) at Tigerless.
+Based in New York. Creator of [**Lara**](https://lara.tigerless.com).
 
 💼 [LinkedIn](https://www.linkedin.com/in/ruihan-l-565938255)
 
