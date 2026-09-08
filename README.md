@@ -1,6 +1,6 @@
 # Hi, I'm Ruihan 👋
 
-I build agent infrastructure at [**Tigerless Labs**](https://github.com/tigerless-labs) — tools that change how a coding agent works, and show you what it is actually doing. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
+I build agent infrastructure — tools that change how a coding agent works, and show you what it is actually doing. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
 
 Based in New York. Building AI for healthcare at Tigerless.
 
@@ -10,7 +10,7 @@ Based in New York. Building AI for healthcare at Tigerless.
 
 ## ⭐ Featured projects
 
-The ones people use most.
+The ones people use most. These ship under [**Tigerless Labs**](https://github.com/tigerless-labs) — I'm the builder behind them.
 
 🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->2.9k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark
 
@@ -36,4 +36,4 @@ Skills that put the agent to work on everything around the code — design, rese
 
 ---
 
-More in the works — built in the open, shipped fast. Everything lives at [**@tigerless-labs**](https://github.com/tigerless-labs).
+More in the works — built in the open, shipped fast, all under [**@tigerless-labs**](https://github.com/tigerless-labs).
