@@ -2,7 +2,7 @@
 
 I build agent infrastructure — tools that change how a coding agent works, and show you what it is actually doing. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
 
-Based in New York.
+Based in New York. Building AI at Tigerless.
 
 💼 [LinkedIn](https://www.linkedin.com/in/ruihan-l-565938255)
 
