@@ -16,7 +16,7 @@ The ones people use most. These ship under [**Tigerless Labs**](https://github.c
 
 💸 [**cost-xray**](https://github.com/tigerless-labs/cost-xray) (<!--stars:cost-xray-->1.3k<!--/stars--> stars) - See what Claude Code and Codex actually send to the API — and what each part costs. Usage logs tell you what a turn cost; Cost X-ray tells you why
 
-📚 [**agent-memory**](https://github.com/tigerless-labs/agent-memory) (<!--stars:agent-memory-->612<!--/stars--> stars) - Local-first long-term memory for coding agents: markdown files are the single source of truth, the index is a rebuildable cache, and a sleep-time layer consolidates and forgets by value
+📚 [**agent-memory**](https://github.com/tigerless-labs/agent-memory) (<!--stars:agent-memory-->612<!--/stars--> stars) - Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read
 
 ---
 
