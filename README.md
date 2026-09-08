@@ -10,7 +10,7 @@ Based in New York. Building at Tigerless, where I build [**Lara**](https://lara.
 
 ## ⭐ Featured projects
 
-The ones people use most. These ship under [**Tigerless Labs**](https://github.com/tigerless-labs) — I'm the builder behind them.
+The ones people use most. These ship under [**Tigerless Labs**](https://github.com/tigerless-labs).
 
 🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->2.9k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark
 
