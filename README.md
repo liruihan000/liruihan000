@@ -1,6 +1,6 @@
 # Hi, I'm Ruihan 👋
 
-An AI engineer at Tigerless. I build tools, agents, and experiments across the AI development stack. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
+AI engineer at Tigerless. I build tools, agents, and experiments across the AI development stack. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
 
 Based in New York. Creator of [**Lara**](https://lara.tigerless.com).
 
