@@ -1,0 +1,49 @@
+# Hi, I'm Ruihan 👋
+
+I build agent infrastructure at [**Tigerless Labs**](https://github.com/tigerless-labs) — tools that change how a coding agent works, and show you what it is actually doing. Most of it starts as something I needed for my own sessions, then gets cleaned up and shipped in the open.
+
+Based in New York. Building AI for healthcare at Tigerless.
+
+🌐 [tigerless.ai](https://tigerless.ai) · 🏢 [tigerless.com](https://www.tigerless.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ruihan-l-565938255)
+
+---
+
+## ⭐ Featured projects
+
+The ones people use most.
+
+🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->2.9k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark
+
+💸 [**cost-xray**](https://github.com/tigerless-labs/cost-xray) (<!--stars:cost-xray-->1.3k<!--/stars--> stars) - See what Claude Code and Codex actually send to the API — and what each part costs. Usage logs tell you what a turn cost; Cost X-ray tells you why
+
+📚 [**agent-memory**](https://github.com/tigerless-labs/agent-memory) (<!--stars:agent-memory-->612<!--/stars--> stars) - Local-first long-term memory for coding agents: markdown files are the single source of truth, the index is a rebuildable cache, and a sleep-time layer consolidates and forgets by value
+
+---
+
+## 🧰 Agent skills
+
+Skills that put the agent to work on everything around the code — design, research, distribution.
+
+📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->343<!--/stars--> stars) - Drafts your X and Reddit posts from your merged PRs and the day's hot threads. Drafts only — it never posts for you
+
+🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->217<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
+
+🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->193<!--/stars--> stars) - Finds creators who bring their own audience across 15 channels, and appends their public contact info to a Google Sheet
+
+📡 [**paper-radar**](https://github.com/tigerless-labs/paper-radar) (<!--stars:paper-radar-->190<!--/stars--> stars) - Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on. No ML, no state, stdlib only
+
+🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->78<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic
+
+---
+
+## 🛡️ Guardrails
+
+Checks that run before the agent's work reaches production.
+
+🏥 [**phi-boundary-gate**](https://github.com/tigerless-labs/phi-boundary-gate) (<!--stars:phi-boundary-gate-->204<!--/stars--> stars) - PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs
+
+🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->18<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
+
+---
+
+More in the works — built in the open, shipped fast. Everything lives at [**@tigerless-labs**](https://github.com/tigerless-labs).
