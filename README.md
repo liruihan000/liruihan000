@@ -14,9 +14,9 @@ Tools that change how your coding agent works — and show you what it is actual
 
 🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->11.1k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused. No daemon, no benchmark
 
-💸 [**cost-xray**](https://github.com/tigerless-labs/cost-xray) (<!--stars:cost-xray-->4.9k<!--/stars--> stars) - See what Claude Code and Codex actually send to the API — and what each part costs. Usage logs tell you what a turn cost; Cost X-ray tells you why
+💸 [**cost-xray**](https://github.com/tigerless-labs/cost-xray) (<!--stars:cost-xray-->5.1k<!--/stars--> stars) - See what Claude Code and Codex actually send to the API — and what each part costs. Usage logs tell you what a turn cost; Cost X-ray tells you why
 
-📚 [**agent-memory**](https://github.com/tigerless-labs/agent-memory) (<!--stars:agent-memory-->3.6k<!--/stars--> stars) - Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read
+📚 [**agent-memory**](https://github.com/tigerless-labs/agent-memory) (<!--stars:agent-memory-->3.7k<!--/stars--> stars) - Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read
 
 ---
 
@@ -24,15 +24,15 @@ Tools that change how your coding agent works — and show you what it is actual
 
 Skills I build to put the agent to work on everything around the code — design, research, distribution.
 
-📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->640<!--/stars--> stars) - A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads. Drafts only — it never posts for you
+📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->644<!--/stars--> stars) - A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads. Drafts only — it never posts for you
 
-🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->717<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
+🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->724<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
 
 🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->232<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
 
 📡 [**paper-radar**](https://github.com/tigerless-labs/paper-radar) (<!--stars:paper-radar-->220<!--/stars--> stars) - Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on. No ML, no state, stdlib only
 
-🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->216<!--/stars--> stars) - Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet
+🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->217<!--/stars--> stars) - Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet
 
 ---
 
@@ -42,7 +42,7 @@ Lab projects I contribute to.
 
 🏥 [**phi-boundary-gate**](https://github.com/tigerless-labs/phi-boundary-gate) (<!--stars:phi-boundary-gate-->204<!--/stars--> stars) - PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs
 
-🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->141<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
+🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->143<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
 
 ---
 
