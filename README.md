@@ -24,9 +24,9 @@ Tools that change how your coding agent works — and show you what it is actual
 
 Skills I build to put the agent to work on everything around the code — design, research, distribution.
 
-📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->724<!--/stars--> stars) - A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads. Drafts only — it never posts for you
+📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->732<!--/stars--> stars) - A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads. Drafts only — it never posts for you
 
-🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->890<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
+🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->914<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
 
 🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->233<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
 
@@ -42,7 +42,7 @@ Lab projects I contribute to.
 
 🏥 [**phi-boundary-gate**](https://github.com/tigerless-labs/phi-boundary-gate) (<!--stars:phi-boundary-gate-->204<!--/stars--> stars) - PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs
 
-🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->173<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
+🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->178<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
 
 ---
 
