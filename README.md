@@ -12,7 +12,7 @@ Based in New York. Creator of [**Lara**](https://lara.tigerless.com).
 
 Tools that change how your coding agent works — and show you what it is actually doing. I build these under [**Tigerless Labs**](https://github.com/tigerless-labs).
 
-🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->10.5k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused. No daemon, no benchmark
+🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->10.6k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused. No daemon, no benchmark
 
 💸 [**cost-xray**](https://github.com/tigerless-labs/cost-xray) (<!--stars:cost-xray-->5.8k<!--/stars--> stars) - See what Claude Code and Codex actually send to the API — and what each part costs. Usage logs tell you what a turn cost; Cost X-ray tells you why
 
