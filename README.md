@@ -30,9 +30,9 @@ Skills I build to put the agent to work on everything around the code — design
 
 🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->234<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
 
-📡 [**paper-radar**](https://github.com/tigerless-labs/paper-radar) (<!--stars:paper-radar-->223<!--/stars--> stars) - Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on. No ML, no state, stdlib only
+📡 [**paper-radar**](https://github.com/tigerless-labs/paper-radar) (<!--stars:paper-radar-->224<!--/stars--> stars) - Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on. No ML, no state, stdlib only
 
-🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->219<!--/stars--> stars) - Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet
+🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->220<!--/stars--> stars) - Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet
 
 ---
 
