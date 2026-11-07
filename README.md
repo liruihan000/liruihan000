@@ -12,7 +12,7 @@ Based in New York. Creator of [**Lara**](https://lara.tigerless.com).
 
 Tools that change how your coding agent works — and show you what it is actually doing. I build these under [**Tigerless Labs**](https://github.com/tigerless-labs).
 
-🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->10.7k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused. No daemon, no benchmark
+🧠 [**autoharness**](https://github.com/tigerless-labs/autoharness) (<!--stars:autoharness-->10.8k<!--/stars--> stars) - An agent that gets better by working, not by being rebuilt. A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused. No daemon, no benchmark
 
 💸 [**cost-xray**](https://github.com/tigerless-labs/cost-xray) (<!--stars:cost-xray-->5.8k<!--/stars--> stars) - See what Claude Code and Codex actually send to the API — and what each part costs. Usage logs tell you what a turn cost; Cost X-ray tells you why
 
@@ -32,7 +32,7 @@ Skills I build to put the agent to work on everything around the code — design
 
 📡 [**paper-radar**](https://github.com/tigerless-labs/paper-radar) (<!--stars:paper-radar-->224<!--/stars--> stars) - Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on. No ML, no state, stdlib only
 
-🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->222<!--/stars--> stars) - Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet
+🔎 [**influencer-discovery**](https://github.com/tigerless-labs/influencer-discovery) (<!--stars:influencer-discovery-->223<!--/stars--> stars) - Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet
 
 ---
 
