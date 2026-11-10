@@ -26,7 +26,7 @@ Skills I build to put the agent to work on everything around the code — design
 
 📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->780<!--/stars--> stars) - A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads. Drafts only — it never posts for you
 
-🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->988<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
+🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->989<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
 
 🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->235<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
 
