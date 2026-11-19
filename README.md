@@ -26,9 +26,9 @@ Skills I build to put the agent to work on everything around the code — design
 
 📣 [**auto-gtm**](https://github.com/tigerless-labs/auto-gtm) (<!--stars:auto-gtm-->780<!--/stars--> stars) - A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads. Drafts only — it never posts for you
 
-🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->989<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
+🚀 [**seo-ops**](https://github.com/tigerless-labs/seo-ops) (<!--stars:seo-ops-->990<!--/stars--> stars) - Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex
 
-🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->235<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
+🎛️ [**design-harness**](https://github.com/tigerless-labs/design-harness) (<!--stars:design-harness-->236<!--/stars--> stars) - Feed your agent papers and half-formed ideas; it links them into a system design you can defend. Markdown keeps the record, a visual canvas makes it readable
 
 📡 [**paper-radar**](https://github.com/tigerless-labs/paper-radar) (<!--stars:paper-radar-->226<!--/stars--> stars) - Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on. No ML, no state, stdlib only
 
@@ -42,7 +42,7 @@ Lab projects I contribute to.
 
 🏥 [**phi-boundary-gate**](https://github.com/tigerless-labs/phi-boundary-gate) (<!--stars:phi-boundary-gate-->204<!--/stars--> stars) - PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs
 
-🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->194<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
+🧪 [**pr-test-guard**](https://github.com/tigerless-labs/pr-test-guard) (<!--stars:pr-test-guard-->193<!--/stars--> stars) - Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests
 
 ---
 
